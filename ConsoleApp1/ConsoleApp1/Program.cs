@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {//ppp
-            Console.WriteLine("lucas orld!");
+            Console.WriteLine("Hello orld!");
         }
     }
 }
